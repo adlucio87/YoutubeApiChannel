@@ -9,9 +9,9 @@ need youtube api key
 # Screen
 
 <div align="center">
-    <img src="Images/Screenshot_20190825-144203.png" width="200px"</img> 
-    <img src="(/Images/Screenshot_20190825-144218.png" width="200px"</img> 
-    <img src="/Images/Screenshot_20190825-144257.png" width="200px"</img> 
+    <img src="/Images/Screenshot_20190825-144203.png" width="250px"</img> 
+    <img src="/Images/Screenshot_20190825-144218.png" width="250px"</img> 
+    <img src="/Images/Screenshot_20190825-144257.png" width="250px"</img> 
 </div>
 
 
