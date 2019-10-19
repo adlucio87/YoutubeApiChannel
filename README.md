@@ -1,6 +1,10 @@
 # youtubeapichannel
 
-A new Flutter project.
+This Flutter App  is an example app that show how is simple implement an App connected with Youtube Channel API
+
+requirement:
+need youyube api key
+
 
 ## Getting Started
 
