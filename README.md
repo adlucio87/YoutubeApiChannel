@@ -3,10 +3,16 @@
 This Flutter App  is an example app that show how is simple implement an App connected with Youtube Channel API
 
 requirement:
-need youyube api key
+need youtube api key
 
 
-## Getting Started
+# Screen
+
+![Alt text](/Image/img.jpg?raw=true "video list")
+
+
+
+## Getting Started with flutter
 
 This project is a starting point for a Flutter application.
 
